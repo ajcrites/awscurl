@@ -3,7 +3,7 @@
 ### 2.4.1 (Next)
 
 * Your contribution here.
-* [#118](https://github.com/matt-kruse/alexa-app/pull/118): [#117](https://github.com/matt-kruse/alexa-app/issues/117) Prevent updating session attributes directly - [@ajcrites](https://github.com/ajcrites).
+* [#118](https://github.com/matt-kruse/alexa-app/pull/118), [#117](https://github.com/matt-kruse/alexa-app/issues/117): Prevent updating session attributes directly - [@ajcrites](https://github.com/ajcrites).
 
 ### 2.4.0 (January 5, 2017)
 
